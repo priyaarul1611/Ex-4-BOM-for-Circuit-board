@@ -78,6 +78,7 @@ Thus, generating a BOM is an essential step before PCB fabrication and productio
 
 
 
+
 **Procedure**
 
 Open Proteus Design Suite.
@@ -119,6 +120,8 @@ D1–D4	Diode	1N4007	DO-41	4
 IC1	Voltage Regulator	7805	TO-220	1
 LED1	LED	Red	5 mm	1
 J1	Connector	2-Pin	Terminal Block	1
+<img width="900" height="600" alt="Screenshot 2026-07-30 062625" src="https://github.com/user-attachments/assets/0ca78f49-b16b-42cf-9e7a-47c507d0c671" />
+
 
 **Observation**
 
